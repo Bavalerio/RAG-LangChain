@@ -1,0 +1,27 @@
+# Environment variables (contains API keys)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# ChromaDB vector database
+chroma/
+
+# Temporary files
+*.tmp
+tmp/
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
