@@ -2,7 +2,8 @@
 
 An intelligent PDF reader application built with **Streamlit**, **LangChain**, and **OpenAI** that allows users to upload PDF documents and ask questions about their content using natural language processing.
 
-![Interactive PDF Reader](CleanShot%202025-08-11%20at%2008.55.54.png)
+![Interactive PDF Reader](<img width="1783" height="1185" alt="CleanShot 2025-08-11 at 11 15 09" src="https://github.com/user-attachments/assets/8db1f298-fabf-4f42-83b9-1fc4f35bd7eb" />
+)
 
 ## ✨ Features
 
